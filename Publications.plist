@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>HeaderName</key>
+		<string>Publication</string>
+		<key>Details</key>
+		<array>
+			<dict>
+				<key>shortDescription</key>
+				<string>Most U.S. farmers prepare their soil for seeding and weed and pest control through tillage—plowing operations that disturb the soil. Tillage practices affect soil carbon, water pollution, and farmers’ energy and pesticide use, and therefore data on tillage can be valuable for understanding the practice’s role in reaching climate and other environmental goals. In order to help policymakers and other interested parties better understand U.S. tillage practices and, especially, those practices’ potential contribution to climate-change efforts, ERS researchers compiled data from the Agricultural Resource Management Survey and the National Resources Inventory-Conservation Effects Assessment Project’s Cropland Survey. The data show that approximately 35.5 percent of U.S. cropland planted to eight major crops, or 88 million acres, had no tillage operations in 2009.</string>
+				<key>date</key>
+				<string>November 2010</string>
+				<key>title</key>
+				<string>“No-Till” Farming Is a Growing Practice</string>
+				<key>author</key>
+				<string>John Horowitz, Robert Ebel, and Kohei Ueda</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>HeaderName</key>
+		<string>Summary</string>
+		<key>Details</key>
+		<array>
+			<dict>
+				<key>longDescription</key>
+				<string>What Is the Issue? Tillage-the plowing of land for weed and pest control and to prepare for seeding-has long been part of the cropland farming enterprise. A reduction in how often or how intensively the soil is tilled allows the soil to retain more organic matter, which stores or &quot;sequesters&quot; carbon, which then is not available to contribute to global warming as carbon dioxide (CO2), a greenhouse gas. The adoption of less intensive tillage practices on a large number of farms could sequester substantial amounts of carbon, allowing agriculture to contribute to U.S. efforts to reduce and control greenhouse gas emissions. Because of this potential role for tillage in U.S. climate-change policy, ERS researchers have compiled and analyzed available USDA data on tillage practices by U.S. Farmers. What Do the Data Show?Approximately 35.5 percent of U.S. cropland (88 million acres) planted to eight major crops had no tillage (&quot;no till&quot;) operations in 2009, according to ERS researchers who analyzed 2000-07 data from USDA&apos;s Agricultural Resource Management Survey (ARMS). The crops-barley, corn, cotton, oats, rice, sorghum, soybeans, and wheat-constituted 94 percent of total planted U.S. acreage in 2009.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>HeaderName</key>
+		<string>PDF Download</string>
+		<key>Details</key>
+		<array>
+			<dict>
+				<key>Url</key>
+				<string>http://www.ers.usda.gov/media/140711/eb15_1_.pdf</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>HeaderName</key>
+		<string>Keywords</string>
+		<key>Details</key>
+		<array>
+			<dict>
+				<key>Words</key>
+				<string>Tillage, no-till, Agricultural Resource Management Survey, ARMS, U.S. crop practices, National Resources Inventory-Conservation Effects Assessment Project, NRI-CEAP, carbon baseline, carbon sequestration</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

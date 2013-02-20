@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>headerName</key>
+		<string>Policy</string>
+		<key>publications</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Water Conservation in Irrigated Agriculture: Trends and Challenges in the Face of Emerging Demands</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>The Role of Agriculture in Reducing Greenhouse Gas Emissions</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>headerName</key>
+		<string>Farm Techniques</string>
+		<key>publications</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>&quot;No-Till&quot; Farming is a Growing Practice</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Agricultural Adaptation to a Changing Climate: Economic and Environmental Implications Vary by U.S. Region</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>headerName</key>
+		<string>Trends</string>
+		<key>publications</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Water Conservation in Irrigated Agriculture: Trends and Challenges in the Face of Emerging Demands</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Baselines in Environmental Markets: Tradeoffs Between Cost and Additionality</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
